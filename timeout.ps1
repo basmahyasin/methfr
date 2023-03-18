@@ -1,7 +1,7 @@
 # Credits By github.com/ZheHacK
-$i = 2147483
+$i = 999999999
 do {
     Write-Host $i
-    Sleep 2147483
+    Sleep 999999999
     $i--
 } while ($i -gt 0)
